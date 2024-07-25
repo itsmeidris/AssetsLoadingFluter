@@ -1,0 +1,2 @@
+Welcome to my Flutter app!
+This is a simple demonstration of how to load and use text assets ,image assets and data assets in a Flutter application.
